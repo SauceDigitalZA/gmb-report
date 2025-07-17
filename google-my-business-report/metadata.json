@@ -1,0 +1,6 @@
+{
+  "name": "Google My Business AI Assistant",
+  "description": "An AI-powered dashboard to manage your Google Business Profile. Effortlessly create posts, reply to reviews, and monitor your business's online presence with the help of Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
